@@ -17,6 +17,16 @@ namespace Exemplo___Lista
 
         public DateTime DataNasc { get; set; }
 
+        public Paciente() //para digitar
+        { 
+        
+        
+        
+        }
+
+
+
+
         public Paciente(int id_paciente, string nome, string cpf, string email, DateTime dataNasc)
         {
             this.Id_paciente = id_paciente;
