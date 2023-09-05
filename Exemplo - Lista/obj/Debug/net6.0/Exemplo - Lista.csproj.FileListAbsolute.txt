@@ -1,0 +1,15 @@
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\Exemplo - Lista\Exemplo - Lista\bin\Debug\net6.0\Exemplo - Lista.exe
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\Exemplo - Lista\Exemplo - Lista\bin\Debug\net6.0\Exemplo - Lista.deps.json
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\Exemplo - Lista\Exemplo - Lista\bin\Debug\net6.0\Exemplo - Lista.runtimeconfig.json
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\Exemplo - Lista\Exemplo - Lista\bin\Debug\net6.0\Exemplo - Lista.dll
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\Exemplo - Lista\Exemplo - Lista\bin\Debug\net6.0\Exemplo - Lista.pdb
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\Exemplo - Lista\Exemplo - Lista\obj\Debug\net6.0\Exemplo - Lista.csproj.AssemblyReference.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\Exemplo - Lista\Exemplo - Lista\obj\Debug\net6.0\Exemplo - Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\Exemplo - Lista\Exemplo - Lista\obj\Debug\net6.0\Exemplo - Lista.AssemblyInfoInputs.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\Exemplo - Lista\Exemplo - Lista\obj\Debug\net6.0\Exemplo - Lista.AssemblyInfo.cs
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\Exemplo - Lista\Exemplo - Lista\obj\Debug\net6.0\Exemplo - Lista.csproj.CoreCompileInputs.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\Exemplo - Lista\Exemplo - Lista\obj\Debug\net6.0\Exemplo - Lista.dll
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\Exemplo - Lista\Exemplo - Lista\obj\Debug\net6.0\refint\Exemplo - Lista.dll
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\Exemplo - Lista\Exemplo - Lista\obj\Debug\net6.0\Exemplo - Lista.pdb
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\Exemplo - Lista\Exemplo - Lista\obj\Debug\net6.0\Exemplo - Lista.genruntimeconfig.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\Exemplo - Lista\Exemplo - Lista\obj\Debug\net6.0\ref\Exemplo - Lista.dll
